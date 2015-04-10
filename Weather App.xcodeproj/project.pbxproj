@@ -13,6 +13,8 @@
 		1A0DE9071AB48F8800B86DAF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A0DE9061AB48F8800B86DAF /* Images.xcassets */; };
 		1A0DE90A1AB48F8800B86DAF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A0DE9081AB48F8800B86DAF /* LaunchScreen.xib */; };
 		1A0DE9161AB48F8800B86DAF /* Weather_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0DE9151AB48F8800B86DAF /* Weather_AppTests.swift */; };
+		1A0DE9201AB48FF300B86DAF /* photo-nature-hd-cool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1A0DE91F1AB48FF300B86DAF /* photo-nature-hd-cool.jpg */; };
+		1A0DE9221AB4913000B86DAF /* Sky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1A0DE9211AB4913000B86DAF /* Sky.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		1A0DE90F1AB48F8800B86DAF /* Weather AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A0DE9141AB48F8800B86DAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A0DE9151AB48F8800B86DAF /* Weather_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_AppTests.swift; sourceTree = "<group>"; };
+		1A0DE91F1AB48FF300B86DAF /* photo-nature-hd-cool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo-nature-hd-cool.jpg"; sourceTree = "<group>"; };
+		1A0DE9211AB4913000B86DAF /* Sky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sky.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				1A0DE8FF1AB48F8800B86DAF /* AppDelegate.swift */,
 				1A0DE9011AB48F8800B86DAF /* ViewController.swift */,
 				1A0DE9031AB48F8800B86DAF /* Main.storyboard */,
+				1A0DE9211AB4913000B86DAF /* Sky.jpg */,
+				1A0DE91F1AB48FF300B86DAF /* photo-nature-hd-cool.jpg */,
 				1A0DE9061AB48F8800B86DAF /* Images.xcassets */,
 				1A0DE9081AB48F8800B86DAF /* LaunchScreen.xib */,
 				1A0DE8FD1AB48F8800B86DAF /* Supporting Files */,
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A0DE9201AB48FF300B86DAF /* photo-nature-hd-cool.jpg in Resources */,
 				1A0DE9051AB48F8800B86DAF /* Main.storyboard in Resources */,
 				1A0DE90A1AB48F8800B86DAF /* LaunchScreen.xib in Resources */,
 				1A0DE9071AB48F8800B86DAF /* Images.xcassets in Resources */,
+				1A0DE9221AB4913000B86DAF /* Sky.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
